@@ -26,7 +26,7 @@ This project presents an analysis of the global COVID-19 pandemic using Python. 
 
 # ▶️ How to Run/View the Project
 - **Clone this Repository** 
-1. <a src="git clone https://github.com/fiona12-code/COVID19-Data-Tracker.git">Clone repo </a>
+1. [Clone repo](git clone https://github.com/fiona12-code/COVID19-Data-Tracker.git)
 - **Install Required Libraries**
 2. pip install numpy pandas matplotlib seaborn jupyter
 - **Launch Jupyter Notebook**
