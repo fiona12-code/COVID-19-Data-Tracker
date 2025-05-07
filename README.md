@@ -28,10 +28,12 @@ This project presents an analysis of the global COVID-19 pandemic using Python. 
 - **Clone this Repository** 
 1. [Clone repo](git clone https://github.com/fiona12-code/COVID19-Data-Tracker.git)
 - **Install Required Libraries**
-2. pip install numpy pandas matplotlib seaborn jupyter
+2. pip install numpy, pandas, matplotlib, seaborn, jupyter
 - **Launch Jupyter Notebook**
 3. jupyter notebook
 4. cd COVID19.ipynb and run all cells sequentially to reproduce the analysis and visualizations.
+
+- **OR** Use (https://anaconda.com/app) to view and analyse project
 
 # 📈 Analysis Highlights
 - **Countries of Interest:** Kenya, India, Afghanistan, Uganda, Zimbabwe, USA.
